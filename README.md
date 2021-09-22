@@ -5,4 +5,6 @@ Extra packages to improve the compatbility to access an android phone from your 
 
 ```git clone https://github.com/RebornOS-Developers/rebornos-android-usb```
 
+``` cd rebornos-android-usb```
+
 ```makepkg --syncdeps ```
