@@ -8,6 +8,5 @@ url='https://github.com/RebornOS-Developers/rebornos-android-usb'
 arch=('any')
 license=('GPL3')
 depends=('android-file-transfer' 'mtpfs' 'kio-extra' 'gvfs-mtp' 'gvfs-gphoto2'
-
-
-)
+          'android tools' 'libmtp' 'android-udev' 'gmtp'
+           )
